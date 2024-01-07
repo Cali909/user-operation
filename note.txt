@@ -1,0 +1,12 @@
+FROM ROOT DIRECTORY (USER-OPERATION):
+
+OPEN A TERMINAL:
+$ cd .\src\
+$ cd .\data\
+$ json-server --watch db.json -p 8000
+
+
+OPEN A NEW TERMINAL:
+$ npm run dev
+
+OPEN http://localhost:3000 ON ANY BROWSER
