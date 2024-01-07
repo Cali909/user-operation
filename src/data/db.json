@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "Name": "Juliet Oma",
+      "Username": "julie@yahoo.com",
+      "Mobile": "08100000000"
+    },
+    {
+      "id": 2,
+      "Name": "James Williams",
+      "Username": "jameswilly@gmail.com",
+      "Mobile": "08111111111"
+    },
+    {
+      "id": 3,
+      "Name": "Ahmed Ali",
+      "Username": "ahmedali012@gmail.com",
+      "Mobile": "09022222222"
+    },
+    {
+      "id": 4,
+      "Name": "Grace Funsho",
+      "Username": "gracefunsho@gmail.com",
+      "Mobile": "090"
+    },
+    {
+      "id": 404.71547,
+      "Name": "asdd",
+      "Username": "asdd",
+      "Mobile": "sdfs"
+    }
+  ]
+}
