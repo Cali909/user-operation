@@ -1,6 +1,11 @@
 FROM ROOT DIRECTORY (USER-OPERATION):
 
 OPEN A TERMINAL:
+$ npm i
+
+# after installation completed
+
+OPEN A NEW TERMINAL:
 $ cd .\src\
 $ cd .\data\
 $ json-server --watch db.json -p 8000
